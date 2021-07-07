@@ -9,4 +9,5 @@
   - git commit -m "init"
   - git push origin master
 - 发布文档: npm run doc:deploy
-- 访问在线文档: https://yuanbo-wang.github.io/whitebear_ts_study/chapter1/01_%E5%88%9D%E8%AF%86TS.html
+- 访问在线文档:  [1. 初识 TypeScript | TypeScript 入门 (yuanbo-wang.github.io)](https://yuanbo-wang.github.io/whitebear_ts_study/chapter1/01_初识TS.html)
+
